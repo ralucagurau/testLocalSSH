@@ -1,7 +1,21 @@
 
+
 test` local
 =======
 new feature
 this is for conflict 
 
+<<<<<<< HEAD
 Test again the conflict 
+=======
+<<<<<< HEAD
+second execise 
+
+line from github 
+
+
+
+Solve conflict 
+>>>>>>> feature2
+
+merge the conflict branch to main 
