@@ -5,10 +5,10 @@ test` local
 new feature
 this is for conflict 
 
-<<<<<<< HEAD
+
 Test again the conflict 
 =======
-<<<<<< HEAD
+
 second execise 
 
 line from github 
@@ -16,8 +16,14 @@ line from github
 
 
 Solve conflict 
->>>>>>> feature2
+feature2
 
+<<<<<<< Updated upstream
 merge the conflict branch to main 
 
 stash exercise 
+=======
+merge the conflict branch to merge
+
+exercise 4 : stash 
+ Stashed changes
